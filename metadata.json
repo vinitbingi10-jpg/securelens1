@@ -1,0 +1,8 @@
+{
+  "name": "Secure Lens - AI-Powered Web Security Platform",
+  "description": "Comprehensive web security vulnerability assessment platform with multi-tool scanner orchestration, real-time security auditing, SSRF-guarded targets, and AI-powered remediation guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
